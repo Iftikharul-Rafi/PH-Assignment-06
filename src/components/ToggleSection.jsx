@@ -189,4 +189,3 @@ const ToggleSection = ({ cart, setCart }) => {
 
 export default ToggleSection;
 
-...
