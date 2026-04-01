@@ -95,4 +95,3 @@ const ProductCard = ({ product, handleAddToCart }) => {
 export default ProductCard;
 
 
-...
